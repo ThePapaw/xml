@@ -1,6 +1,6 @@
 ﻿[B][COLOR deepskyblue]                                  ••••• [/COLOR][/B][B][COLOR yellow] LATEST NEWS [/COLOR][/B][B][COLOR deepskyblue] •••••[/COLOR][/B]
 
-[B][COLOR deepskyblue]• [/COLOR][/B][COLOR deepskyblue]CURRENT STATUS:[/COLOR][COLOR orange] Great (IPTV No longer updated)[/COLOR] 
+[B][COLOR deepskyblue]• [/COLOR][/B][COLOR deepskyblue]CURRENT STATUS:[/COLOR][COLOR green] Great[/COLOR] [COLOR red](IPTV No longer updated)[/COLOR] 
 [COLOR deepskyblue]********************************************************************************************[/COLOR]
 [B][COLOR limegreen]v1.0.17 (09-17-21)[/COLOR][/B]
 [B][COLOR deepskyblue]• [/COLOR][/B] Scraper Work
